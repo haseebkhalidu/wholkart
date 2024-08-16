@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.wholkart",
+    "sha256_cert_fingerprints":
+    ["85:BA:14:81:60:33:8B:D8:51:FA:49:57:2C:6B:C0:83:1B:8C:72:23:A4:64:6F:91:B4:B8:84:66:21:DE:E3:A1"]
+  }
+}]
